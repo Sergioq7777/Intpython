@@ -1,2 +1,1 @@
-# Intpython
-Introduction py
+Fix the REadme
