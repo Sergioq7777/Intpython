@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 my_string = "Hello World!"
-
-my_string ='''Este es un string\n y un salto de linea ''' 
+my_string ='''Este es un string\n y un salto de lineal'''
 
 course = "love u"
 name = "Mother"
